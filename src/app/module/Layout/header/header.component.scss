@@ -1,0 +1,16 @@
+
+.header{
+    display: flex;
+    padding: 2em;
+    gap: 2em;
+    background-color: aliceblue;
+    padding-left: 22rem;
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    li{
+        cursor: pointer;
+        list-style: none;
+    }
+}

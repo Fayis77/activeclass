@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+}
+.active-body{
+    .side-bar{
+        width: 5rem!important;
+    }
+    .header{
+        padding-left: 5rem!important;
+    }
+   
+    .main-content{
+        padding-left: 5rem !important;
+        
+    }
+   
+}
